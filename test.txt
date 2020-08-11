@@ -1,6 +1,6 @@
 Git Playground
 1) Coba dengan git init
 2) Test program yang ada
-3) Simulasi dengan database
+
 4) Trial limited user base
 5) Soft launch to select customers
