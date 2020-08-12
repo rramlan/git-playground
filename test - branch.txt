@@ -4,4 +4,5 @@ Branch
 Ini test branch dengan isi:
 
 1) Create new branch
-2) Commit branch
+2) Edit branch
+3) Tambah branch lagi
